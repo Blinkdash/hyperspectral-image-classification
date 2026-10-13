@@ -1,0 +1,7 @@
+dataset,model,test_fraction,OA,macro_F1,weighted_F1
+Salinas Valley,SVM,0.7,0.862817,0.908073,0.843448
+Salinas Valley,1D-CNN (Hu),0.9,0.947493,0.971709,0.946607
+Salinas Valley,3-2D BERT / D2BERT,0.9,0.88815,0.931985,0.884257
+Pavia Centre,SVM,0.7,0.969028,0.896738,0.968675
+Pavia Centre,1D-CNN (Hu),0.9,0.991698,0.973497,0.991717
+Pavia Centre,3-2D BERT / D2BERT,0.9,0.932434,0.767075,0.927472
